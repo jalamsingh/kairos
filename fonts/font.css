@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'PAC';
+    src: url('PAC.eot');
+    src: url('PAC.eot?#iefix') format('embedded-opentype'),
+        url('PAC.woff2') format('woff2'),
+        url('PAC.woff') format('woff'),
+        url('PAC.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

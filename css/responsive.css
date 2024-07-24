@@ -1,0 +1,220 @@
+@media (max-width:1440px){
+.header .navbar-nav > li {
+    padding: 0 15px;
+}
+}
+@media (max-width:1366px){
+.social_icons {
+    right: 10px;
+}
+.sand_clock {max-width: 250px;}
+}
+@media (max-width:1199px){
+.header .navbar-brand {
+    max-width: 200px;
+}
+.header .navbar-nav > li {
+    padding: 0 10px;
+}
+p {
+    font-size: 16px;
+}
+.sand_clock {right: 10px;}
+.btn {
+    white-space: nowrap;
+}
+}
+
+@media (max-width:991px){
+.header .navbar-nav > li {
+    padding: 0;
+}
+.header .navbar-nav li a {padding: 12px 0!important;}
+.header .navbar-collapse {
+    padding-top: 10px;
+}
+.header .btn {
+    margin: 5px 0;
+    width: 100%;
+}
+.banner_sec {
+    padding: 100px 0 200px;
+}
+.navbar-dark .navbar-toggler {
+    border-color: #fff;
+}
+p, .footer_menu li a {
+    font-size: 16px;
+    line-height: 26px;
+}
+.header, .dark_header {
+    padding: 5px 15px;
+}
+.main_head {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.banner_img .bnrCenter_img {
+    max-width: 500px;
+    margin: 0 auto;
+    right: 0;
+}
+.banner_img .d-flex img {
+    margin-left: -15px;
+}
+.weare_sec .sec_head p {
+    margin: 15px 0 20px;
+}
+.sand_clock {
+    max-width: 150px;
+}
+.star_line:before {
+    left: -140px;
+    top: 15px;
+}
+.map_container:before {left: -165px;}
+.fotrLogo {
+    text-align: center;
+}
+.subs_cribe {
+    margin: 40px 0 30px;
+}
+.footer_sec {
+    padding: 20px 0;
+}
+.unleash_box .row > div {
+    margin-top: 35px;
+}
+.kairos_sec .main_head {
+    font-size: 100px;
+    margin: -10px 0 20px;
+}
+}
+
+
+@media (max-width:767px){
+.banner_img .d-flex img {
+    width: 50%;
+    margin: 0;
+}
+.banner_sec {
+    padding: 100px 0 200px;
+}
+.btn_group {
+    margin: 20px 0 0;
+}
+.sec_head h4 {
+    font-size: 20px;
+}
+.social_icons {
+    right: 6px;
+    top: 20px;
+}
+.social_icons a {
+    margin-bottom: 15px;
+}
+.banner_img .bnrCenter_img {
+    max-width: 230px;
+    bottom: 80px;
+}
+.bnrTxt_img {
+    margin-top: -190px;
+    position: relative;
+}
+.banner_img .d-flex img:last-child {
+    margin-right: -15px;
+}
+.bnr_txt {
+    margin-top: -50px;
+}
+.btn_group .btn {
+    margin: 0 0 15px !important;
+}
+.bnr_txt h4 {
+    font-size: 16px;
+}
+.mainSec_head {
+    margin: -170px 0 20px;
+}
+.mainSec_head h4:after, .sec_head h4:after {
+    margin: 20px auto;
+    width: 150px;
+}
+p, .footer_menu li a {
+    font-size: 14px;
+    line-height: 24px;
+}
+.unleash_sec {
+    padding-bottom: 70px;
+    text-align: center;
+}
+.weare_sec .sec_head {
+    margin: -30px 0 0;
+    text-align: center;
+}
+.weare_sec {padding-bottom: 10px;}
+.sand_clock {
+    max-width: 80px;
+    position: static;
+    margin: 0 auto;
+    display: block;
+}
+.road_sec {
+    padding: 0;
+    text-align: center;
+}
+.map_row .row > div {
+    margin-top: 30px !important;
+}
+.step_box p {
+    margin: 10px auto 0;
+}
+.star_line:before, .map_container:before {display: none;}
+.map_container .map_row {
+    margin: 0;
+}
+.kairos_sec .container {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+}
+.kairos_sec .vert-move {
+    max-width: 200px;
+}
+.kairos_sec {
+    padding: 30px 0 20px;
+}
+.kairos_sec .main_head {
+    font-size: 70px;
+    margin: 0 0 10px;
+    line-height: 80px;
+}
+.subs_cribe .btn {
+    padding: 9px 6px;
+    min-width: inherit;
+    font-size: 13px;
+}
+.subs_cribe {
+    margin: 30px 0 20px;
+}
+.subs_cribe .form-control {
+    padding: 12px 15px 12px 40px;
+    height: 45px;
+    font-size: 14px;
+}
+.footer_sec {
+    padding: 20px 0;
+    text-align: center;
+}
+.fotrLogo h5 {
+    font-size: 14px;
+    line-height: 22px;
+}
+.fotrLogo .main_head {
+    margin-bottom: 10px;
+}
+.weare_sec .main_head {
+    font-size: 50px;
+}
+}
